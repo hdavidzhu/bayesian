@@ -1,4 +1,4 @@
 Bayesian
 ========
 
-Testin platform for learning Sanjoy's Bayesian course.
+Testing platform for learning Sanjoy's Bayesian course.
