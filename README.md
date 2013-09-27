@@ -1,4 +1,4 @@
-bayesian
+Bayesian
 ========
 
-Sanjoy's Bayesian course.
+Testin platform for learning Sanjoy's Bayesian course.
